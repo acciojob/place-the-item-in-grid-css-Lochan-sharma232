@@ -1,12 +1,12 @@
 .grid-container{
 	display: grid;
-	grid-template-columns: repeat(100px 100px);
-	grid-template-rows: repeat(100px 100px);
+	grid-template-columns: 100px 100px;
+	grid-template-rows: 100px 100px;
 	gap: 20px;
 }
-.grid-item{
+/*.grid-item{
 	background-color:lightgray;
 	padding:20px;
 	border:1px solid gray;
 	}
-	
+*/	
