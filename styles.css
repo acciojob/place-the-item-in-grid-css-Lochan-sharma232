@@ -1,12 +1,12 @@
-.grid-container{
+.holder{
 	display: grid;
-	grid-template-columns: 100px 100px;
-	grid-template-rows: 100px 100px;
-	gap: 20px;
+	grid-template-columns: repeat(2,200px)
+;	grid-template-rows:repeat(2,200px);
+	width: 200px;
+	gap: 10px;
 }
 /*.grid-item{
 	background-color:lightgray;
 	padding:20px;
 	border:1px solid gray;
-	}
-*/	
+	}*/	
