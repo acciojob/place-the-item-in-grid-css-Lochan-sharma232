@@ -4,7 +4,9 @@
 	grid-template-rows: repeat(2,100px);
 	grid: 20px;
 }
-.holer>item1{
+.grid-item{
+	background-color:lightgray;
+	padding:20px;
+	bordee:1px solid gray;
+	}
 	
-}
-/* Your CSS Code here. */
