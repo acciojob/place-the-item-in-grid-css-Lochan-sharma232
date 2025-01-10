@@ -4,3 +4,15 @@
 	grid-template-rows:repeat(2,200px);
 	gap: 10px;
 }
+.box{
+	border:1px solid black;
+}
+.red{
+	background-color:red;
+}
+.limegreen{
+	background-color:limegreen;
+}
+.black{
+	background-color:black;
+}
